@@ -1,4 +1,4 @@
 ---
 title: av.ugursenol
-hello
+text : hello
 ---
